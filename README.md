@@ -12,4 +12,4 @@ Task Creation Test.
 
 New Version Check.
 
-Git hooks Test.
+Git hooks Test. Hooks Check.
